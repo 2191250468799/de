@@ -1,1 +1,2 @@
 This is the second de file.
+Add line using EGit.
